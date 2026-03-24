@@ -29,7 +29,12 @@
 
 ### Kitab:
 1. Ushul Tsalatsah
+   - [Ust. Johan Saputra Halim - Yufid.TV](https://www.youtube.com/playlist?list=PLUuYlj8dcEXYBRugnbjgrvnzG7TnynR7G)
+   - [Ust. Firanda Andirja](https://www.youtube.com/playlist?list=PLXHX25swM0h_hdxrJd5w8X-qw55YgSiJb)
+   - [Ust. Ahmad Mudzakkir - Rumah Bahasa Arab](https://www.youtube.com/playlist?list=PLQfj_77jQ-b3AsPYSVZrp5ClwAQH7JkzV)
 2. Qawa’idul Arba’
+   - [Syaikh Shalih Al-Fauzan](https://www.youtube.com/playlist?list=PLzS54Nv4tPmtWWN4--WhJ8ReBrAsvw1AJ)
+   - [Ust. Johan Saputra Halim - Yufid.TV](https://www.youtube.com/playlist?list=PLUuYlj8dcEXYwFfuCj4RrWJzgxQNLfUXv)
 
 ### Rekomendasi:
 - Pelajari + hafal matan
@@ -47,6 +52,9 @@
 
 ### Kitab:
 - Fiqih Muyassar (recommended untuk pemula)
+  - [Ust. Ammi Nur Baits - Kitab Thaharah](https://www.youtube.com/playlist?list=PLC_-tIFtnWeEpEcpevzYraBP2l4zsRBi0)
+  - [Ust. Ammi Nur Baits - Kitab Sholat](https://www.youtube.com/playlist?list=PLC_-tIFtnWeH4HZGfOKjyxT15G6lBi5eZ)
+  - [Ust. Ammi Nur Baits - Kitab Puasa](https://www.youtube.com/playlist?list=PLC_-tIFtnWeFC9D6N2vEjUfE_0_5TFCuG)
 ATAU
 - Matan Abu Syuja’ (mazhab Syafi’i)
 
@@ -66,6 +74,8 @@ ATAU
 
 ### Kitab:
 - Arbain Nawawi
+  - [Ust. Firanda Andirja](https://www.youtube.com/playlist?list=PLXHX25swM0h_k82L5lXon4s0-9NHYr-Yq)
+  - [Ust. Johan Saputra Halim - Yufid.TV](https://www.youtube.com/playlist?list=PLUuYlj8dcEXa56hGbayFFGkwHOfGvhS5-)
 
 ### Target:
 - Hafal 42 hadits
@@ -78,6 +88,9 @@ ATAU
 ## 📖 Al-Qur’an
 
 - Tahsin (tajwid dasar)
+  - [Ust. Agung Argiyansyah - Metode Imam Syafi'i Jilid 1](https://www.youtube.com/playlist?list=PLktE3eEIKLqxHkT_N-y3h6XosIT4vaV8J)
+  - [Ust. Agung Argiyansyah - Metode Imam Syafi'i Jilid 2](https://www.youtube.com/playlist?list=PLktE3eEIKLqxzC64e30S7A1Cq0DHuItGg)
+  - [Ust. Abu Bakar Al-Akhdhory - Metode Imam Syafi'i](https://www.youtube.com/playlist?list=PLejfSKB10Qa59Ze6_fg0Rfp5RVSoGd0Al)
 - Hafalan Juz 30
 
 ⏱️ Estimasi: ongoing (6–12 bulan)
@@ -88,6 +101,7 @@ ATAU
 
 ### Kitab:
 - Adabul Mufrad (pilihan hadits)
+  - [Ust. Firanda Andirja](https://www.youtube.com/playlist?list=PLXHX25swM0h_fX_y4uIMMD7DyqiW3jh5t)
 
 ---
 
@@ -103,6 +117,10 @@ ATAU
 
 ### Kitab:
 - Kitab Tauhid
+  - [Yufid.TV](https://www.youtube.com/playlist?list=PLUuYlj8dcEXbhZuRy_B4Rm3XWVYEL12pM)
+  - [Ust. Dzulqarnain Muhammad Sunusi](https://www.youtube.com/playlist?list=PLvN5LG3AB3-vaZ2gr9uR90QDWHB-fPidA)
+  - [Ust. Muhammad Abduh Tuasikal - Mutiara Faedah Kitab Tauhid](https://www.youtube.com/playlist?list=PLUYZIGi0rAXBc9u_XHRo3wSh3v9wqNMU5)
+  - [Ust. Maududi Abdullah](https://www.youtube.com/playlist?list=PL_UIFkn0Min1fmoE_PwFCUJZh7lJwZ_zu)
 
 ### Output:
 - Paham bentuk ibadah & penyimpangan
